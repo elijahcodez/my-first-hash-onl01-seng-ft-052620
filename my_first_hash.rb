@@ -1,6 +1,5 @@
 def my_hash
-  teams => ["Liverpool FC"]
-  
+
 end
 
 
