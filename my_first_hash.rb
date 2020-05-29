@@ -1,5 +1,5 @@
 def my_hash
-  my_hash => ["Liverpool FC"]
+  teams => ["Liverpool FC"]
   
 end
 
