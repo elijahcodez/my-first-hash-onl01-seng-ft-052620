@@ -4,9 +4,9 @@ end
 
 
 def shipping_manifest
-  the_manifest = old_timey_things
-  old_timey_things = {"whale bone corsets" => "5", "porcelain vases" => "2", "oil paintings" => "3"}
-
+  def old_timey_things
+    old_timey_things = {"whale bone corsets" => "5", "porcelain vases" => "2", "oil paintings" => "3"}
+  end
 end
 
 def retrieval
