@@ -4,7 +4,7 @@ end
 
 
 def shipping_manifest
-  old timey things = {"whale bone corsets" => "5", "porcelain vases" => "2", "oil paintings" => "3"}
+  old timey items = {"whale bone corsets" => "5", "porcelain vases" => "2", "oil paintings" => "3"}
   
 end
 
